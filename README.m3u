@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png",TAMIL VISION TV
+#EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png",Jvr pondyTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
