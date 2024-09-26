@@ -11,7 +11,7 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ptuf.ridsys.in:80/riptv/live/stream238/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit_kj-lRKdCkv8vnPzm1y1kFyLpXXpA5_dI1gV65LfvhMSdoLx5oD9AflqG_-NSdpq2JJzJb5UV0YuuGdBfzPW8Z7tc4HnHZFBtuHqekkhZmVY7k8xpRBZviAAeFeLpw/s1600/vaa-movies-picsay%25252520copy%252525280%25252529.png", JVR TV
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2", JVR TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
