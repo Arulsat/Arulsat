@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png",Jvr pondyTV
+#EXTINF:0, group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2",Jvr pondyTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -23,13 +23,13 @@ http://ptuf.ridsys.in:80/riptv/live/stream125/index.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ptuf.ridsys.in:80/riptv/live/stream191/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-music.png", Rina TV
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2", Rina TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ptuf.ridsys.in:80/riptv/live/stream185/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png", Oscar TV
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2", Oscar TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -60,7 +60,7 @@ http://media.7starcloud.com:1935/harimedia/stv/chunklist_w622418203.m3u8
 http://mntv.livebox.co.in:80/musichls/live.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil;Local",Rasi Classic
+#EXTINF:0 tvg-logo="https://bit.ly/4dkmaG2" group-title="Tamil;Local",Rasi Classic
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -78,7 +78,7 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2",Sana TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
