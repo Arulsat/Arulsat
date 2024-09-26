@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2", AUS TAMIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -17,7 +17,7 @@ http://ptuf.ridsys.in:80/riptv/live/stream238/index.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ptuf.ridsys.in:80/riptv/live/stream125/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png", Kamal TV
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2", Kamal TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -35,25 +35,25 @@ http://ptuf.ridsys.in:80/riptv/live/stream185/index.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ptuf.ridsys.in:80/riptv/live/stream107/index.m3u8
 
-#EXTINF:0 tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="Tamil;Kids",IBC Kids Tamil
+#EXTINF:0 tvg-logo="https://bit.ly/4dkmaG2" group-title="Tamil;Kids",IBC Kids Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ptuf.ridsys.in:80/riptv/live/stream92/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png", 3 TAMIL
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2", 3 TAMIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png" group-title="Tamil;Local",Rasi TV
+#EXTINF:0 tvg-logo="https://bit.ly/4dkmaG2" group-title="Tamil;Local",Rasi TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/harimedia/stv/chunklist_w622418203.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil;Local",Mn music
+#EXTINF:0 tvg-logo="https://bit.ly/4dkmaG2" group-title="Tamil;Local",Mn music
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -66,13 +66,13 @@ http://mntv.livebox.co.in:80/musichls/live.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ptuf.ridsys.in:80/riptv/live/stream125/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star TV
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2",7Star TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/6GxuWXT.png",Hindi HD
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2",Hindi HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -84,7 +84,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ptuf.ridsys.in:80/riptv/live/stream191/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/0ApLXUi.png",isai TV
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2",isai TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -102,7 +102,7 @@ http://ptuf.ridsys.in/riptv/live/stream91/index.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/QXV7bn4.png",Sitvram TV
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://bit.ly/4dkmaG2",Sitvram TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
