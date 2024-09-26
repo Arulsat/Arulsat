@@ -84,17 +84,17 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ptuf.ridsys.in:80/riptv/live/stream191/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/0ApLXUi.png",Thalapathy TV
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/0ApLXUi.png",isai TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8
+http://srnet.bmlive.net:1935/isaisaral/mystream/chunklist_w1851773901.m3u8
 
 #EXTINF:0 group-title="Tamil;Local",Aarya Premiere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
+http://ptuf.ridsys.in:80/riptv/live/stream91/index-002432.ts
 
 #EXTINF:0 group-title="Tamil;Local",Tirumalai TV KARUR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
