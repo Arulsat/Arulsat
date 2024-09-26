@@ -90,11 +90,11 @@ http://ptuf.ridsys.in:80/riptv/live/stream191/index.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://srnet.bmlive.net:1935/isaisaral/mystream/chunklist_w1851773901.m3u8
 
-#EXTINF:0 group-title="Tamil;Local",Aarya Premiere
+#EXTINF:0 group-title="Tamil;Local",Arina music
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://ptuf.ridsys.in:80/riptv/live/stream91/index-002432.ts
+http://ptuf.ridsys.in/riptv/live/stream91/index.m3u8
 
 #EXTINF:0 group-title="Tamil;Local",Tirumalai TV KARUR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
