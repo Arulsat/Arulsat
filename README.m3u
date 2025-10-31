@@ -11,7 +11,7 @@ https://servertvhub.site/jio/app/ts_live_683.m3u8
 #EXTINF:0, group-title="Tamil", Santhora Tv
 https://s06.hotshare.link/Thalaivan_Thalaivii_2025_HQ_PreDVD_720p_HD.mp4
 #EXTINF:0, group-title="Tamil", Meenakshi TV
-http://150.242.21.2/meenakshi.m3u8?bandwidth=956&shift=60&token=72033d762eb4ae7976fb3cc8022791e4&user=460&e=1530340270&os=android&rand=2013678688
+https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
 #EXTINF:0, group-title="Tamil", Dheeran TV
 http://cdn.asianetmobiletvplus.online/channels/dheerantv_hjykdbbkxbzqjhwiilxdziveskvmspkt/index.m3u8
 #EXTINF:0, group-title="Tamil", Sivan TV
