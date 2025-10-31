@@ -21,7 +21,7 @@ https://app.ashokadigital.net/sscn/sscn/index.m3u8
 #EXTINF:0, group-title="Tamil", SKTAT TV
 https://ipcloud.live/anbutv/anbutvhd/index.m3u8
 #EXTINF:0, group-title="Tamil", Sri Krishna TV
-http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
+http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
 #EXTINF:0, group-title="Tamil", Agam TV
 http://209.58.160.206/agamtvhls/live.m3u8
 #EXTINF:0, group-title="Tamil", Vasantham Tv
